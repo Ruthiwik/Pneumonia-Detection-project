@@ -9,9 +9,13 @@ numpy
 pandas
 matplotlib
 pillow
+base64
 
 # PDF generation
 fpdf
+
+# Medical imaging
+pydicom
 
 # Logging and display
 rich
