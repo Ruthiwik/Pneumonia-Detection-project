@@ -1,7 +1,51 @@
+# tensorflow-cpu==2.20.0
+# streamlit==1.50.0
+# pillow==10.0.1
+# numpy==2.2.6
+# fpdf2==2.8.4
+# pydicom==3.0.1
+# matplotlib==3.10.0
+# TensorFlow CPU version
 tensorflow-cpu==2.20.0
-streamlit==1.50.0
-pillow==10.0.1
+
+# Keras compatible with TF 2.20
+keras==3.11.3
+
+# Numpy compatible with TF 2.20
 numpy==2.2.6
-fpdf2==2.8.4
-pydicom==3.0.1
+
+# TensorBoard matching TF 2.20
+tensorboard==2.20.0
+
+# Protobuf matching TF 2.20
+protobuf==6.33.0
+
+# Python typing extensions
+typing-extensions==4.15.0
+
+# Streamlit for UI
+streamlit==1.50.0
+
+# Image processing
+pillow==10.0.1
 matplotlib==3.10.0
+
+# PDF generation
+fpdf2==2.8.4
+
+# DICOM files
+pydicom==3.0.1
+
+# Other dependencies Streamlit needs
+altair==5.3.0
+blinker==1.9.0
+cachetools==6.2.1
+click==8.3.0
+pandas==2.3.3
+pyarrow==21.0.0
+tenacity==9.1.2
+toml==0.10.2
+watchdog==6.0.0
+gitpython==3.1.45
+pydeck==0.9.1
+tornado==6.5.2
