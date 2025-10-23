@@ -9,7 +9,6 @@ numpy
 pandas
 matplotlib
 pillow
-base64
 
 # PDF generation
 fpdf
