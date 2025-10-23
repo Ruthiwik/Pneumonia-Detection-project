@@ -8,6 +8,10 @@ streamlit>=1.37.0
 numpy
 pandas
 matplotlib
+pillow
+
+# PDF generation
+fpdf
 
 # Logging and display
 rich
