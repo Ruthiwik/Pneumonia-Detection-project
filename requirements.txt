@@ -1,20 +1,7 @@
-# Machine learning
-tensorflow==2.16.1
-
-# Streamlit
-streamlit>=1.37.0
-
-# Data and utilities
-numpy
-pandas
-matplotlib
-pillow
-
-# PDF generation
-fpdf
-
-# Medical imaging
-pydicom
-
-# Logging and display
-rich
+tensorflow-intel==2.13.0
+streamlit==1.50.0
+pillow==10.0.1
+numpy==1.24.3
+fpdf2==2.8.4
+pydicom==3.0.1
+matplotlib==3.10.0
